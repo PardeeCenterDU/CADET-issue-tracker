@@ -14,7 +14,7 @@ Please include the following information in the description of the request/error
 Short Description of the Request or Error / Restate of the title
 Date found or requested
 Person found or requested by
-Type of request or error (see below) [This should also be an attached label]
+Bug fix, feature request, question, or other? (see below) [This should also be an attached label]
 Description of request or error - Long form and additional details beyond what is in the title
 Steps to replicate the error, if applicable
 Attempt to recreate error on another device and note whether error reproducible
@@ -47,7 +47,7 @@ Open CADET
 Selected Leader XYZ's biographical information
 Click "Add Note" on the date of birth
 Type information and click "Enter Information"
-Chrome crashes and restarts (no error message to screenshot).
+Chrome crashes and restarts, so no error message to screenshot.
 
 Reproducible on another device? (Y/N): Yes. 
 
