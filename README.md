@@ -47,7 +47,8 @@ Open CADET
 Selected Leader XYZ's biographical information
 Click "Add Note" on the date of birth
 Type information and click "Enter Information"
-Chrome crashes and restarts (no error message to screenshot)
+Chrome crashes and restarts (no error message to screenshot).
+
 Reproducible on another device? (Y/N): Yes. 
 
 Screenshot (If possible, paste text directly so that it can be copied or searched within): (Not Shown Here)
