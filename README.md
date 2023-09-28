@@ -22,7 +22,7 @@ Screen shot of error message or anything else that is relevant
 Discussion (space for follow-up questions and notes)
 ALWAYS add the "New Issue" label
 
-ALWAYS add collinmeisel as "Assignees"
+ALWAYS add collinmeisel & jcubeta as "Assignees"
 
 Add any other labels as appropriate, based off their description
 
